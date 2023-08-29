@@ -1,6 +1,6 @@
 ## messenger
 ### Сервис для общения людей и взаимодействия с Chat-GPT
-Вся информация о разработанном сервисе -> 
+Вся информация о разработанном сервисе -> [мессенджер.pdf](https://github.com/ArtemVerzun/messenger/files/12465465/default.pdf)
 ### Результат
 ![image](https://github.com/ArtemVerzun/messenger/assets/143192676/6ee58592-8995-4097-a47e-28129864e7a8)\
 ![image](https://github.com/ArtemVerzun/messenger/assets/143192676/107af7db-694b-41ba-9db9-835c2f474957)\
